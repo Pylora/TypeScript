@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://expressjs.com/" target="blank"><img src="http://wanago.io/express.png" width="320" alt=" Logo" /></a>
-</p>
-
 ## Description
 
 This repository is a part of the [Express Typescript tutorial](https://wanago.io/courses/typescript-express-tutorial/).
